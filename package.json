@@ -5,6 +5,10 @@
   "bin": {
     "create-node-boiler": "./index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/your-repo-name.git"
+  },
   "dependencies": {
     "fs-extra": "^10.0.0"
   },
