@@ -1,0 +1,16 @@
+{
+  "name": "create-node-boiler",
+  "version": "1.0.1",
+  "description": "A CLI tool to create Node.js projects",
+  "bin": {
+    "create-node-boiler": "./index.js"
+  },
+  "dependencies": {
+    "fs-extra": "^10.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
